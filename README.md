@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AjayRao91
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning basics of programing 
+- 💞️ I’m looking to collaborate on learning path for AI
